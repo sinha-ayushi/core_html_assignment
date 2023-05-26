@@ -1,0 +1,8 @@
+4. List out any 3 tags we learned in this module and give a brief explanation about the tags.
+
+Tags are:-
+<p></p>:-The <p> tag represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line indentation, but HTML paragraphs can be any structural grouping of related content, such as images or form fields.
+
+<a></a>:-The <a> tag (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
+
+<div></div>:-Div creates a container or a division within a web page that can be used to group other HTML elements, such as text, images, forms, and other HTML tags, into a logical section or a block. 
